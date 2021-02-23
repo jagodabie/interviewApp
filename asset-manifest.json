@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/interviewApp/static/css/main.191682b1.chunk.css",
+    "main.js": "/interviewApp/static/js/main.d0852221.chunk.js",
+    "main.js.map": "/interviewApp/static/js/main.d0852221.chunk.js.map",
+    "runtime-main.js": "/interviewApp/static/js/runtime-main.4b739c4d.js",
+    "runtime-main.js.map": "/interviewApp/static/js/runtime-main.4b739c4d.js.map",
+    "static/js/2.cf2bf1c5.chunk.js": "/interviewApp/static/js/2.cf2bf1c5.chunk.js",
+    "static/js/2.cf2bf1c5.chunk.js.map": "/interviewApp/static/js/2.cf2bf1c5.chunk.js.map",
+    "index.html": "/interviewApp/index.html",
+    "static/css/main.191682b1.chunk.css.map": "/interviewApp/static/css/main.191682b1.chunk.css.map",
+    "static/js/2.cf2bf1c5.chunk.js.LICENSE.txt": "/interviewApp/static/js/2.cf2bf1c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b739c4d.js",
+    "static/js/2.cf2bf1c5.chunk.js",
+    "static/css/main.191682b1.chunk.css",
+    "static/js/main.d0852221.chunk.js"
+  ]
+}
